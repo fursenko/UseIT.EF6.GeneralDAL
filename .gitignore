@@ -1,0 +1,15 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+*.dll
+/GeneralDAL.DataAccess/obj
+/GeneralDAL.DataAccess/bin/Debug
+/.vs
+/GeneralDAL.App/obj/Debug
+/GeneralDAL.App/bin/Debug
+/GeneralDAL.Common/obj/Debug
+/GeneralDAL.Common/bin/Debug
+/GeneralDAL.Service/obj/Debug
+/GeneralDAL.Service/bin/Debug
+/packages/EntityFramework.6.2.0
